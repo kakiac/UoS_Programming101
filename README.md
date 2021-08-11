@@ -41,8 +41,8 @@ The aims of the module are:
 
 
 #### Lecture 1: Getting Started: Computers, Programming and Java
-
-Content:
+<details>
+  <summary>Content Outline</summary>
 
  * Welcome
  * Why Study Programming?
@@ -59,9 +59,12 @@ Content:
     * install Java & Eclipse
     * run the 'Hello World' program
 
+ </details>
+ 
 #### Lecture 2: Java Concepts I: Basic Data Types (string, int) & Variables
-
-Content: 
+<details>
+  <summary>Content Outline</summary>
+ 
  * recap of last lecture
  * 'Good morning World': String Data Type
  * What is a Variable?
@@ -78,9 +81,12 @@ Content:
     * Running lecture2-1.java; replace numbers with a variable
     * Correcting the mistakes in lecture2-2.java & sucessfully running it
 
+   </details>
+   
 #### Lecture 3: Java Concepts II: More Data types & Operators
-
-Content:
+<details>
+  <summary>Content Outline</summary>
+   
 * recap of last lecture
 * String concatenation
 * Other Numerical Data types (double, float, date)
@@ -113,10 +119,12 @@ European format: Thursday 18 July 2019
 
 Hint: You might want to use additional variables to hold values during the computation. Variables that are used in a computation but never displayed are sometimes called “intermediate” or “temporary” variables.
 
+</details>
 
 #### Lecture 4: Java in context: Programming language paradigms
+<details>
+  <summary>Content Outline</summary>
 
-Content:
  * recap of last lecture
  * Programming language paradigms: 
   * imperative (procedural, object oriented)
@@ -126,23 +134,24 @@ Content:
  * Example of 'hello world' program in different programming language paradigms
  * Java: an Object Oriented Programming language
 
-
+</details>
 
 #### Lecture 5: What if? Java Conditionals
-
-Content:
+<details>
+  <summary>Content Outline</summary>
 
  * Conditional statements in programming
  * Java Conditions and if statements
    * logical conditions from maths (Java Comparison operators ( ==, !=, >, <, >=, <=)) - refresher
    * conditional statements: if, else, else if
  * Conditionals: switch statements; 'break' keyword
- *  
-
+ 
+</details>
 
 #### Lecture 6: Java Loops 
 
-Content: 
+<details>
+  <summary>Content Outline</summary>
 
 * understanding loops 
 * Java 'while' loop
@@ -152,9 +161,12 @@ Content:
 * break & continue
 * Java Lambda expressions (parameter -> expression)
 
+   </details>
+
 #### Lecture 7: Java Methods
 
-Content: 
+<details>
+  <summary>Content Outline</summary>
 
 * back to hello world program - Java program anatomy
 * Method = Function
@@ -167,10 +179,14 @@ Content:
 * Method overloading
 * Method Scope
 * A method calling itself: recursion
+ 
+   </details>
 
 #### Lecture 8: Java Objects & Classes 
 
-Content:
+<details>
+  <summary>Content Outline</summary>
+   
 * refresher: Programming language paradigms - Object Oriented Programming
 * Programming using Templates: Java Objects and classes:
    * refresher: Java is an object oriented language
@@ -188,9 +204,13 @@ Content:
    * Java special classes IV: wrapper classes (https://www.w3schools.com/java/java_wrapper_classes.asp)
    * Importing a class from a package
    * nesting classes (inner classes)
+   
+   </details>
 
 #### Lecture 9: Errors & Exceptions
-
+<details>
+  <summary>Content Outline</summary>
+   
 Content:
 * compiler errrors
 * Runtime errors
@@ -200,16 +220,19 @@ Content:
 *  Your turn:
       * Play 'Stump the Chump': Start with a program that compiles and runs correctly. One player looks away, while the other player adds an error to the program. Then the first player tries to find and fix the error. You get two points if you find the error without compiling the program, one point if you find it using the compiler, and your opponent gets a point if you don’t find it. 
 
+   </details>
 
 #### Lecture 10: Inheritance (subclasses & superclasses)
-
-Content:
+<details>
+  <summary>Content Outline</summary>
+   
 * the concept of inheritance in java
 * why inherit?
 * why bother reusing your code?
 * subclasses vs superclasses
 * Extending classes (https://www.w3schools.com/java/java_polymorphism.asp)
 
+   </detail>
 
 #### Lecture 11: Working with Files in Java
 
